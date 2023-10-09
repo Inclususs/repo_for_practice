@@ -8,3 +8,7 @@ def math2(a: int, b: int, c: int) -> int:
 
 def hello():
     return 'hello'
+
+
+def hello2():
+    return 'hello2'
