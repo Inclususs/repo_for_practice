@@ -17,3 +17,6 @@ def hello2():
 def hello3():
     return 'hello3 cippppppens'
 
+
+def hello_for_push():
+    return 'something new for my repository'
