@@ -12,3 +12,7 @@ def hello():
 
 def hello2():
     return 'hello2'
+
+
+def hello3():
+    return 'hello3'
